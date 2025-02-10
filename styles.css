@@ -1,0 +1,78 @@
+body{
+    margin: 0%;
+}
+table{
+width : 100%;
+border-collapse: collapse;
+padding: 10px;
+}
+b{
+        font-size: 20px;
+    -webkit-text-stroke-width: 1px;
+}
+th{
+background-color: #cdca32
+}
+td{
+    font-weight: bold;
+    text-align: center;
+    padding:15px;
+}
+tr:nth-child(5){
+    background-color: #cdca32;
+}
+tr:nth-child(8){
+    background-color: #cdca32;
+}
+tr:nth-child(11){
+    background-color: #cdca32;
+}
+tr:nth-child(14){
+    background-color: #cdca32;
+}
+tr:nth-child(17){
+    background-color: #cdca32;
+}
+/* tr:nth-child(3)
+{
+    background-color: hsl(212, 61%, 50%);
+}
+tr:nth-child(6)
+{
+    background-color: hsl(212, 61%, 50%);
+}
+tr:nth-child(9)
+{
+    background-color: hsl(212, 61%, 50%);
+}
+tr:nth-child(12)
+{
+    background-color: hsl(212, 61%, 50%);
+}
+tr:nth-child(15)
+{
+    background-color: hsl(212, 61%, 50%);
+} */
+tr:nth-child(4)
+{
+    background-color: rgb(51, 204, 97);
+}
+tr:nth-child(7)
+{
+    background-color: rgb(51, 204, 97);
+}
+tr:nth-child(10)
+{
+    background-color: rgb(51, 204, 97);
+}
+tr:nth-child(13)
+{
+    background-color: rgb(51, 204, 97);
+}
+tr:nth-child(16)
+{
+    background-color: rgb(51, 204, 97);
+}
+#foo{
+    background-color :#56a1cc;
+}
